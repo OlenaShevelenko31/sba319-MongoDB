@@ -39,4 +39,15 @@ This application is built using Express.js, a minimalist web application framewo
 - `mongodb`: MongoDB Node.js driver for interacting with MongoDB databases.
 
 ## View of main page
+<img width="1033" alt="Screenshot 2024-05-17 at 9 01 44 PM" src="https://github.com/OlenaShevelenko31/sba319-MongoDB/assets/163446129/0e9b5470-4425-4bef-a85e-1b1ea8f4a919">
+
+
+##  View of all users
+<img width="965" alt="Screenshot 2024-05-17 at 9 08 16 PM" src="https://github.com/OlenaShevelenko31/sba319-MongoDB/assets/163446129/e2e3d2ff-4f3d-4769-8f36-75843468c620">
+
+
+## View of all reviews
+<img width="968" alt="Screenshot 2024-05-17 at 9 08 50 PM" src="https://github.com/OlenaShevelenko31/sba319-MongoDB/assets/163446129/590afef3-6bad-49b0-8444-938196e24289">
+
+
 
