@@ -1,0 +1,32 @@
+/* reviewsStyle.css */
+body{
+    background-image: url("https://img.freepik.com/free-vector/people-library-flat-vector-illustration_74855-6607.jpg?t=st=1715977032~exp=1715980632~hmac=726c28436d20e9ff8ce683513a433c1ae25b6f415fa050313e5280f31f8a2576&w=2000");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.user-list {
+    display: block;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+}
+
+.user {
+    width: 700px;
+    margin: 40px;
+    opacity: 0.9;
+
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.user h2 {
+    margin-top: 0;
+}
+
+.user p {
+    margin-bottom: 10px;
+}

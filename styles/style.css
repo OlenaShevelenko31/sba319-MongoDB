@@ -1,0 +1,21 @@
+/* Main page styling ...  */
+
+body{
+    background-image: url("https://img.freepik.com/free-photo/abundant-collection-antique-books-wooden-shelves-generated-by-ai_188544-29660.jpg?t=st=1715967583~exp=1715971183~hmac=53dd6fe210eb9400e8e48feda5dae8527a97f3bcfd4abe607b6ad16b33d556f8&w=2000");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+

@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/school-library-concept-illustration_114360-20374.jpg?t=st=1715970206~exp=1715973806~hmac=687b250447b713cb8c5a62f0e7a5cec525115d64f08519719c60c0bc42c1a6bc&w=2000");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.user-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user{
+    border: 1px solid #ccc;
+    background-color: rgb(148, 192, 231);
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+.user h2 {
+    margin-top: 0;
+}
+
+.user p {
+    margin-bottom: 5px;
+}
+
+.user p.password {
+    margin-bottom: 0;
+    font-family: monospace; 
+    color: #555; 
+}
